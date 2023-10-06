@@ -1,9 +1,0 @@
-{
-  "compilerOptions": {
-    "target": "esnext",
-    "module": "esnext",
-    "moduleResolution": "node",
-    "jsx": "preserve",
-    "types": ["node", "jest", "@testing-library/jest-dom", "vitest/globals"],
-  }
-}
